@@ -1,0 +1,7 @@
+# jeg er en kommentar
+person0 m 35
+person1 k 39
+#hehe
+person2 k 66
+person3 m 32
+person4 k 53
